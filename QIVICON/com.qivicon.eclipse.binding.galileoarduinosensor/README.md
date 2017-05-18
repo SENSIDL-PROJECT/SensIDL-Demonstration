@@ -1,7 +1,7 @@
 Qivicon Arduino Demonstrator Binding
 =======
 
-This Demonstrator implements a Binding for the Qivicon Home Base. It should be used with the Arduino Demonstrator [Umgebungskachel](https://github.com/SENSIDL-PROJECT/SensIDL/tree/master/code/demonstration/Arduino/Umgebungskachel)
+This Demonstrator implements a Binding for the Qivicon Home Base. It should be used with the Arduino Demonstrator [Umgebungskachel](../../Arduino/Umgebungskachel)
 and uses the REST API of the Arduino Demonstrator to transfer measured Data to the Qivicon or control functions connected to the Demonstrator.
 
 To install this Binding on a Qivicon Home Base You need:
